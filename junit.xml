@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="6" failures="0" errors="0" time="2.186">
+  <testsuite name="Teams and Channel List Application" errors="0" failures="0" skipped="0" timestamp="2024-03-22T15:21:08" time="1.365" tests="6">
+    <testcase classname="Teams and Channel List Application add team and add channel buttons should be disabled initially" name="Teams and Channel List Application add team and add channel buttons should be disabled initially" time="0.042">
+    </testcase>
+    <testcase classname="Teams and Channel List Application add team button should be enabled only if data entered in input is correct and clicking on button should add it to the list of teams" name="Teams and Channel List Application add team button should be enabled only if data entered in input is correct and clicking on button should add it to the list of teams" time="0.025">
+    </testcase>
+    <testcase classname="Teams and Channel List Application add team button should be disabled if data entered in input is empty or team name already exists" name="Teams and Channel List Application add team button should be disabled if data entered in input is empty or team name already exists" time="0.015">
+    </testcase>
+    <testcase classname="Teams and Channel List Application add channel button should be enabled only if data entered in input is correct and clicking on button should add it to the list of channels" name="Teams and Channel List Application add channel button should be enabled only if data entered in input is correct and clicking on button should add it to the list of channels" time="0.012">
+    </testcase>
+    <testcase classname="Teams and Channel List Application add channel button should be disabled if data entered in input is empty or channel name already exists" name="Teams and Channel List Application add channel button should be disabled if data entered in input is empty or channel name already exists" time="0.014">
+    </testcase>
+    <testcase classname="Teams and Channel List Application clicking on the remove button should remove the channel from the list" name="Teams and Channel List Application clicking on the remove button should remove the channel from the list" time="0.011">
+    </testcase>
+  </testsuite>
+</testsuites>
